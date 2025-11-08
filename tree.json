@@ -1,0 +1,682 @@
+{
+  "id": 1,
+  "type": "root",
+  "orientation": "horizontal",
+  "percent": null,
+  "urgent": false,
+  "marks": [],
+  "focused": false,
+  "layout": "splith",
+  "border": "none",
+  "current_border_width": 0,
+  "rect": {
+    "x": 0,
+    "y": 0,
+    "width": 1920,
+    "height": 1080
+  },
+  "deco_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "window_rect": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "geometry": {
+    "x": 0,
+    "y": 0,
+    "width": 0,
+    "height": 0
+  },
+  "name": "root",
+  "window": null,
+  "nodes": [
+    {
+      "id": 2147483647,
+      "type": "output",
+      "orientation": "horizontal",
+      "percent": null,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "border": "none",
+      "current_border_width": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "__i3",
+      "window": null,
+      "nodes": [
+        {
+          "id": 2147483646,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "width": 1920,
+            "height": 1080
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "__i3_scratch",
+          "window": null,
+          "nodes": [],
+          "floating_nodes": [],
+          "focus": [],
+          "fullscreen_mode": 1,
+          "sticky": false
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        2147483646
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false
+    },
+    {
+      "id": 3,
+      "type": "output",
+      "orientation": "none",
+      "percent": 1.0,
+      "urgent": false,
+      "marks": [],
+      "focused": false,
+      "layout": "output",
+      "border": "none",
+      "current_border_width": 0,
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 1080
+      },
+      "deco_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "geometry": {
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0
+      },
+      "name": "eDP-1",
+      "window": null,
+      "nodes": [
+        {
+          "id": 4,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 32,
+            "width": 1920,
+            "height": 1048
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "1",
+          "window": null,
+          "nodes": [
+            {
+              "id": 5,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": true,
+              "layout": "none",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 57,
+                "width": 1920,
+                "height": 1023
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 25
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "name": "tmux",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 4301,
+              "app_id": "kitty",
+              "visible": true,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            5
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 1,
+          "output": "eDP-1",
+          "representation": "H[kitty]"
+        },
+        {
+          "id": 7,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 32,
+            "width": 1920,
+            "height": 1048
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "2",
+          "window": null,
+          "nodes": [
+            {
+              "id": 12,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 57,
+                "width": 1920,
+                "height": 1023
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 25
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "name": "swayipc\/_examples\/events\/main.go at main · TLINDEN\/swayipc · GitHub - Chromium",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 7417,
+              "app_id": "chromium",
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            12
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 2,
+          "output": "eDP-1",
+          "representation": "H[chromium]"
+        },
+        {
+          "id": 8,
+          "type": "workspace",
+          "orientation": "horizontal",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splith",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 32,
+            "width": 1920,
+            "height": 1048
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "3",
+          "window": null,
+          "nodes": [
+            {
+              "id": 9,
+              "type": "con",
+              "orientation": "none",
+              "percent": 0.5,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 57,
+                "width": 960,
+                "height": 1023
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 960,
+                "height": 25
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 0,
+                "width": 956,
+                "height": 1021
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "name": "…\/.config\/sway\/config.d",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 4851,
+              "app_id": "kitty",
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            },
+            {
+              "id": 10,
+              "type": "con",
+              "orientation": "none",
+              "percent": 0.5,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 960,
+                "y": 57,
+                "width": 960,
+                "height": 1023
+              },
+              "deco_rect": {
+                "x": 960,
+                "y": 0,
+                "width": 960,
+                "height": 25
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 0,
+                "width": 956,
+                "height": 1021
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 956,
+                "height": 1021
+              },
+              "name": "output (~\/.config\/sway\/config.d) - gedit",
+              "window": null,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 4893,
+              "app_id": "gedit",
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xdg_shell",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            9,
+            10
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 3,
+          "output": "eDP-1",
+          "representation": "H[kitty gedit]"
+        },
+        {
+          "id": 11,
+          "type": "workspace",
+          "orientation": "vertical",
+          "percent": null,
+          "urgent": false,
+          "marks": [],
+          "focused": false,
+          "layout": "splitv",
+          "border": "none",
+          "current_border_width": 0,
+          "rect": {
+            "x": 0,
+            "y": 32,
+            "width": 1920,
+            "height": 1048
+          },
+          "deco_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "window_rect": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "geometry": {
+            "x": 0,
+            "y": 0,
+            "width": 0,
+            "height": 0
+          },
+          "name": "4",
+          "window": null,
+          "nodes": [
+            {
+              "id": 6,
+              "type": "con",
+              "orientation": "none",
+              "percent": 1.0,
+              "urgent": false,
+              "marks": [],
+              "focused": false,
+              "layout": "none",
+              "border": "normal",
+              "current_border_width": 2,
+              "rect": {
+                "x": 0,
+                "y": 57,
+                "width": 1920,
+                "height": 1023
+              },
+              "deco_rect": {
+                "x": 0,
+                "y": 0,
+                "width": 1920,
+                "height": 25
+              },
+              "window_rect": {
+                "x": 2,
+                "y": 0,
+                "width": 1916,
+                "height": 1021
+              },
+              "geometry": {
+                "x": 0,
+                "y": 0,
+                "width": 1440,
+                "height": 900
+              },
+              "name": "swaystack.go - sway-stack - Visual Studio Code",
+              "window": 4194308,
+              "nodes": [],
+              "floating_nodes": [],
+              "focus": [],
+              "fullscreen_mode": 0,
+              "sticky": false,
+              "pid": 4602,
+              "app_id": null,
+              "visible": false,
+              "max_render_time": 0,
+              "shell": "xwayland",
+              "inhibit_idle": false,
+              "idle_inhibitors": {
+                "user": "none",
+                "application": "none"
+              },
+              "window_properties": {
+                "class": "Code",
+                "instance": "code",
+                "title": "swaystack.go - sway-stack - Visual Studio Code",
+                "transient_for": null,
+                "window_role": "browser-window",
+                "window_type": "normal"
+              }
+            }
+          ],
+          "floating_nodes": [],
+          "focus": [
+            6
+          ],
+          "fullscreen_mode": 1,
+          "sticky": false,
+          "num": 4,
+          "output": "eDP-1",
+          "representation": "V[Code]"
+        }
+      ],
+      "floating_nodes": [],
+      "focus": [
+        4,
+        7,
+        8,
+        11
+      ],
+      "fullscreen_mode": 0,
+      "sticky": false,
+      "primary": false,
+      "make": "Unknown",
+      "model": "Unknown",
+      "serial": "Unknown",
+      "modes": [
+        {
+          "width": 1920,
+          "height": 1080,
+          "refresh": 60000,
+          "picture_aspect_ratio": "none"
+        }
+      ],
+      "non_desktop": false,
+      "active": true,
+      "dpms": true,
+      "power": true,
+      "scale": 1.0,
+      "scale_filter": "nearest",
+      "transform": "normal",
+      "adaptive_sync_status": "disabled",
+      "current_workspace": "1",
+      "current_mode": {
+        "width": 1920,
+        "height": 1080,
+        "refresh": 60000,
+        "picture_aspect_ratio": "none"
+      },
+      "max_render_time": 0
+    }
+  ],
+  "floating_nodes": [],
+  "focus": [
+    3
+  ],
+  "fullscreen_mode": 0,
+  "sticky": false
+}
